@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Proyek on Isma Des</title><link>https://ismades.github.io/isma_portofolio/post/</link><description>Recent content in Proyek on Isma Des</description><generator>Hugo</generator><language>id-ID</language><lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ismades.github.io/isma_portofolio/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Project 5: Memprediksi Starter NBA 2023: Perpaduan Regresi Linier dan Logistik</title><link>https://ismades.github.io/isma_portofolio/post/project_5/</link><pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate><guid>https://ismades.github.io/isma_portofolio/post/project_5/</guid><description>&lt;p>Di proyek ini, saya mencoba memprediksi siapa saja pemain yang layak menjadi starter di NBA menggunakan dataset NBA 2023 dari Kaggle. Saya menggunakan dua pendekatan: Regresi Linier Sederhana dan Regresi Logistik.
+Dengan Regresi Linier Sederhana, saya melihat hubungan antara fitur-fitur tertentu dengan jumlah pertandingan sebagai starter (GS). Nilai GS ini kemudian saya jadikan patokan untuk menentukan status starter. Saya juga menggunakan matriks korelasi untuk memilih fitur yang paling relevan, lalu mengevaluasi model dengan MAE, MSE, R², dan RMSE.
+Setelah itu, saya lanjutkan ke Regresi Logistik untuk mengklasifikasikan pemain sebagai starter atau bukan, berdasarkan hasil dari model sebelumnya. Di tahap ini, saya menggunakan confusion matrix, akurasi, presisi, dan recall untuk melihat seberapa baik model bekerja.
+Proyek ini saya buat sebagai bagian dari proses belajar dan eksplorasi saya di dunia data.&lt;/p></description></item><item><title>Proyek 1: Program Kalkulator &amp; Data List Python</title><link>https://ismades.github.io/isma_portofolio/post/project_1/</link><pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate><guid>https://ismades.github.io/isma_portofolio/post/project_1/</guid><description>&lt;ul>
+&lt;li>Dibuat menggunakan Python sebagai latihan dasar pemrograman.&lt;/li>
+&lt;li>Menerima dua input angka dari pengguna dan melakukan operasi aritmatika: penjumlahan, pengurangan, perkalian, dan pembagian.&lt;/li>
+&lt;li>Menampilkan hasil dari operasi perbandingan: lebih besar, lebih kecil, sama dengan, tidak sama dengan, dan sebagainya.&lt;/li>
+&lt;li>Menunjukkan penggunaan struktur data list dengan contoh daftar buah, sayuran, dan makanan favorit.&lt;/li>
+&lt;li>Mengakses elemen tertentu dari list untuk menunjukkan pemahaman tentang struktur data.&lt;/li>
+&lt;li>Ini adalah proyek pertama saya dalam proses belajar dasar-dasar pemrograman untuk data science.&lt;/li>
+&lt;/ul>
+&lt;figure>&lt;img src="../images/proyek_1.jpg">
+&lt;/figure>
+
+&lt;p>&lt;a href="https://github.com/ismades/Simple-Python-Calculator">🔗 Lihat Repositori di GitHub&lt;/a>&lt;/p></description></item><item><title>Proyek 2: Program Python Multi-Fitur — Kalkulator, BMI, Konversi Suhu, dan Lainnya</title><link>https://ismades.github.io/isma_portofolio/post/project_2/</link><pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate><guid>https://ismades.github.io/isma_portofolio/post/project_2/</guid><description>&lt;ul>
+&lt;li>Dibuat menggunakan Python sebagai proyek latihan untuk memperkuat logika dan penguasaan alur program.&lt;/li>
+&lt;li>Menggunakan perulangan &lt;code>while&lt;/code> dan percabangan &lt;code>if-elif&lt;/code> untuk membuat sistem menu interaktif.&lt;/li>
+&lt;li>Fitur yang tersedia: kalkulator dasar, sistem penilaian nilai, pengukur BMI dengan pesan kesehatan, konversi suhu lengkap (C, F, R, K), serta simulasi perhitungan harga warnet dengan diskon.&lt;/li>
+&lt;li>Dirancang untuk memperdalam pemahaman tentang statement kondisional, perulangan, input pengguna, dan operasi aritmatika dasar.&lt;/li>
+&lt;/ul>
+&lt;figure>&lt;img src="../images/proyek_2.jpg">
+&lt;/figure>
+
+&lt;p>&lt;a href="https://github.com/ismades/Multi-Feature-Python-Program-Calculator-BMI-Calculator-Temperature-Converter-More">🔗 Lihat Repositori di GitHub&lt;/a>&lt;/p></description></item><item><title>Proyek 3: Aplikasi Pencarian Drama Korea dengan Python, MySQL, dan Tkinter</title><link>https://ismades.github.io/isma_portofolio/post/project_3/</link><pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate><guid>https://ismades.github.io/isma_portofolio/post/project_3/</guid><description>&lt;ul>
+&lt;li>Antarmuka GUI dibuat menggunakan Tkinter.&lt;/li>
+&lt;li>Database dirancang dan dikelola melalui PHPMyAdmin (MySQL).&lt;/li>
+&lt;li>Fitur registrasi dan login pengguna lengkap dengan validasi.&lt;/li>
+&lt;li>Mendukung pencarian drama berdasarkan tahun atau rating.&lt;/li>
+&lt;li>Menyimpan riwayat pencarian lengkap dengan penanda waktu (timestamp) untuk setiap pengguna.&lt;/li>
+&lt;li>Menyediakan opsi untuk menampilkan ulang atau menghapus data riwayat pencarian.&lt;/li>
+&lt;/ul>
+&lt;figure>&lt;img src="../images/proyek_3.png">
+&lt;/figure>
+
+&lt;p>&lt;a href="https://github.com/ismades/KDrama-Search-App">🔗 Lihat Repositori di GitHub&lt;/a>&lt;/p></description></item><item><title>Proyek 4: Visualisasi Performa Siswa dengan Power BI</title><link>https://ismades.github.io/isma_portofolio/post/project_4/</link><pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate><guid>https://ismades.github.io/isma_portofolio/post/project_4/</guid><description>&lt;p>Dalam proyek ini, saya belajar menganalisis data performa siswa dengan mengeksplorasi bagaimana berbagai faktor—seperti gender, jenis makan siang, tingkat pendidikan orang tua, ras/etnis, dan keikutsertaan dalam kursus persiapan—mempengaruhi nilai akademik siswa.&lt;/p>
+&lt;p>Selain belajar, saya juga mempraktikkan apa yang telah saya pelajari dengan melakukan pembersihan data menggunakan Python dan membuat visualisasi menggunakan Power BI. Proyek ini membantu saya memahami cara menggali insight dari data dan menyampaikan informasi tersebut secara visual dan mudah dipahami.&lt;/p></description></item></channel></rss>
